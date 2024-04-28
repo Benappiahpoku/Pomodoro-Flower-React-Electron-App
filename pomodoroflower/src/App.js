@@ -11,7 +11,7 @@ function App() {
         <footer className="footer">
           <img className="footer-logo" src="logo.png" alt="Your Logo" />
           <p className="footer-text">
-            <code>Appiah-Poku B. © {new Date().getFullYear()}</code>
+            <code> © {new Date().getFullYear()} Appiah-Poku B. </code>
           </p>
         </footer>
       </header>
